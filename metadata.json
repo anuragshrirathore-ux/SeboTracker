@@ -1,0 +1,7 @@
+{
+  "name": "SeboTracker",
+  "description": "Predictive biofeedback app for Seborrheic Dermatitis tracking metabolic triggers and flare risks.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
